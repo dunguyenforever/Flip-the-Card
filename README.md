@@ -1,4 +1,4 @@
-# Flip-the-Card
+# What-The-Flip
 
 ## Description
 Allowing the user to flip a card and reveal the result of the card from the 52-card deck <br>
