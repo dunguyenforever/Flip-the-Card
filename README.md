@@ -15,15 +15,15 @@ A website, mobile applications built using Flutter, Dart for Android, iOS, web. 
 
 Hosts on: whattheflip.tech by domain.com. <br>
 
-Include: Twillio's Communication API for Messaging. <br>
+Include: Twilio's Communication API for Messaging. <br>
 
-Details: The user sends a message to Twillio's number to start the game, the result from "Flip the Card" will be read by Twillio's API, it will then process the result and send an appropriate message based on the card to the user based on the foundation of Cartomancy. <br>
+Details: The user sends a message to Twilio's number to start the game, the result from "Flip the Card" will be read by Twilio's API, it will then process the result and send an appropriate message based on the card to the user based on the foundation of Cartomancy. <br>
 
 ![Twillio_Messaging_Example](https://user-images.githubusercontent.com/74561706/221416243-58d7e1b0-b54f-4cf2-ace4-0c0491c50981.jpg)
-Twillio's messaging example <br>
+Twilio's messaging example <br>
 
 ![Twillio_Messaging_Logicflow](https://user-images.githubusercontent.com/74561706/221416256-80d17bf4-fed7-45bc-a45e-6eb888bb3a02.png)
-Twillio's Messaging Logic Flow in Twillio's Console <br>
+Twilio's Messaging Logic Flow in Twillio's Console <br>
 
 
 
