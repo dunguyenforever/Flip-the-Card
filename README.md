@@ -1,5 +1,8 @@
 # What-The-Flip
 
+## Purpose
+Learning how to use Flutter, Dart programming language with the inclusion of external API
+
 ## Description
 Allowing the user to flip a card and reveal the result of the card from the 52-card deck <br>
 
